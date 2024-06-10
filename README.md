@@ -7,4 +7,5 @@ I created this program to find unsecured public facing IP cameras from https://w
 
 - Download the zip file of this code and extract it to a folder.
 - Open CMD or PowerShell and navigate to the folder that you have extracted this program into.
-- In CMD or Powershell type ''' python camscan.py '''
+- In CMD or Powershell type the following command to start the program
+   ``` python camscan.py ```
